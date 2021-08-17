@@ -57,3 +57,4 @@ def loadBooksTags(catalog):
     TODO futuro laboratorios
     """
     pass
+
